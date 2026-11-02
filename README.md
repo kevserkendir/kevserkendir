@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kevserkendir
-- 👀 I’m interested in finance, web3 and AI.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in finance, product management and AI.
 - 📫 How to reach me: kevserkendir@gmail.com
 
 <!---
